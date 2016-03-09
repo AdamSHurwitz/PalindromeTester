@@ -5,7 +5,7 @@ package javaclasses;
  */
 public class isPalendrome {
     static private final String LOG_TAG = isPalendrome.class.getSimpleName();
-    static String s = "alpha";
+    static String s = "rotor";
 
     public static void main(String[] arg) {
         System.out.println("Palendrome is: " + isPalendrome(s));
